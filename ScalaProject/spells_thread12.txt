@@ -1,0 +1,259 @@
+Determine Depth;bard 2, druid 2, sorcerer/wizard 2;VS;false
+Martyr's Last Blessing;cleric/oracle 3, ranger 3;VSDF;true
+Ice Spears;druid 3, sorcerer/wizard 3, witch 3;VSM;false
+Sky Steed;paladin 3;VSDF;false
+Shield Companion;antipaladin 1, druid 1, paladin 1, ranger 1, sorcerer/wizard 1, witch 1, shaman 2;VSF;true
+Share Shape;ranger 3, sorcerer/wizard 4, witch 4;VSM;false
+Sea Stallion;druid 4, paladin 4, ranger 4;VSDF;false
+Familiar Figment;sorcerer/wizard 2, witch 2;VS;false
+Frost Mammoth;cleric/oracle 7, druid 7, sorcerer/wizard 7, summoner 6;VSM;false
+Steal Years, Greater;cleric/oracle 5, druid 5, sorcerer/wizard 5, witch 5;VSM;true
+Domination Link;bard 3, inquisitor 3, sorcerer/wizard 3, witch 3;VSFDF;false
+Lissalan Snake Sigil;cleric/oracle 3, sorcerer/wizard 3;VSM;false
+Keep Watch;inquisitor 1, magus 1, paladin 1, ranger 1, sorcerer/wizard 1;VS;true
+Carry Companion;druid 2, paladin 2, ranger 2, sorcerer/wizard 2, witch 2;VSM;true
+Sign Of Wrath;cleric/oracle 6, sorcerer/wizard 6;VSFT;true
+Deathwine;alchemist 2, cleric/oracle 2, sorcerer/wizard 3, witch 3;VS;false
+Covetous Aura;bard 5, sorcerer/wizard 5;VS;false
+Prehensile Pilfer;alchemist 3, bard 3, magus 3, sorcerer/wizard 3;VS;true
+Karmic Blessing;cleric/oracle 1, witch 1;VS;true
+Nereid's Grace;druid 1, witch 1;VS;false
+Commune With Birds;bard 2, druid 1, ranger 1, sorcerer/wizard 2, witch 2, shaman 2;VS;false
+Cloud Shape;druid 4, ranger 4, sorcerer/wizard 4;SMDF;false
+Delay Disease;alchemist 2, cleric/oracle 2, druid 2, inquisitor 2, paladin 2, ranger 2, witch 1;VSDF;true
+Binding Earth;druid 2, witch 2;VSDF;true
+Sentry Skull;antipaladin 1, cleric/oracle 2, sorcerer/wizard 2, witch 2;VSM;false
+Blood Blaze;alchemist 2, antipaladin 1, cleric/oracle 2, magus 2, sorcerer/wizard 2, witch 2, bloodrager 2;VS;true
+Scorching Ash Form;alchemist 4, sorcerer/wizard 4;SM;false
+Fury Of The Sun;druid 2, witch 2;VS;true
+Firestream;magus 3, sorcerer/wizard 3, bloodrager 3;VS;true
+Death Candle;antipaladin 1, cleric/oracle 2, inquisitor 2, witch 2;VS;true
+Shadowy Haven;sorcerer/wizard 4;VSM;false
+Life Channel;cleric/oracle 2;VS;true
+Savage Maw;antipaladin 1, cleric/oracle 2, druid 2, inquisitor 2, magus 2, ranger 1;VS;false
+Minor Phantom Object;sorcerer/wizard 4;VS;true
+Jitterbugs;bard 1, sorcerer/wizard 2;VS;true
+Ward Of The Season;cleric/oracle 4, druid 3, ranger 3, witch 3, shaman 3;VS;false
+Toilsome Chant;bard 1;VS;true
+Ironbeard;antipaladin 1, cleric/oracle 1, magus 1, paladin 1, ranger 1;VS;true
+Malediction;sorcerer/wizard 3, witch 3;VSF;true
+Heroic Fortune, Mass;bard 4, cleric/oracle 5;VSDFM;false
+Planetary Adaptation, Mass;cleric 6/oracle 6, sorcerer/wizard 7, summoner 6;VS;true
+Salvage;cleric/oracle 9, sorcerer/wizard 9;VSM;true
+Summon Cacodaemon;cleric/oracle 2, sorcerer/wizard 2, summoner 2, witch 2;VSF;false
+Lash of the Astradaemon;cleric/oracle 6, magus 5, sorcerer/wizard 6, witch 6;VS;false
+Daemon Ward;cleric/oracle 4, druid 5, paladin 4, sorcerer/wizard 4, witch 4;VSM;true
+Vampiric Hunger;antipaladin 3, cleric/oracle 3, druid 3, sorcerer/wizard 3, witch 3;VS;true
+Lose the Trail;antipaladin 2, ranger 1, sorcerer/wizard 1;VS;true
+Aspect of the Nightingale;bard 1, cleric/oracle 1, druid 1, paladin 1, ranger 1;VSDF;false
+Sun Metal;cleric/oracle 1, paladin 1, ranger 1;VS;true
+Spell Immunity, Communal;cleric/oracle 5, inquisitor 5;VSDF;true
+Share Language, Communal;bard 2, cleric/oracle 3, druid 3, sorcerer/wizard 3;VSM;true
+Returning Weapon, Communal;bard 3, cleric/oracle 3, inquisitor 2, magus 2, ranger 2, sorcerer/wizard 3, witch 3;VS;true
+Recoil Fire;sorcerer/wizard 2, witch 2;VSM;true
+Protection from Arrows, Communal;alchemist 3, sorcerer/wizard 3, summoner 3;VSF;true
+Phantom Steed, Communal;bard 4, sorcerer/wizard 4, summoner 3;VS;false
+Flash Fire;sorcerer/wizard 3, witch 3;VSM;true
+Fabricate Bullets;sorcerer/wizard 1;VSM;false
+Energy Siege Shot, Greater;sorcerer/wizard 6, summoner 6;VSM;true
+Effortless Armor;cleric/oracle 2, inquisitor 2, magus 2, paladin 2, ranger 2;VS;false
+Divine Arrow;paladin 2;VS;false
+Discovery Torch;bard 2, cleric/oracle 3, inquisitor 2;VS;false
+Deadeye's Lore;bard 1, cleric/oracle 1, druid 1, inquisitor 1, ranger 1;VS;false
+Daybreak Arrow;cleric/oracle 3, inquisitor 3, paladin 3;VS;true
+Certain Grip;alchemist 2, druid 2, sorcerer/wizard 2, bloodrager 2;VSMDF;true
+Tattoo Potion;alchemist 2, bard 2, sorcerer/wizard 2, witch 2;VSM;false
+Ant Haul, Communal;alchemist 2, cleric/oracle 2, druid 2, ranger 2, sorcerer/wizard 2, summoner 2;VSMDF;true
+Animal Aspect, Greater;alchemist 3, magus 3, druid 3, ranger 3, sorcerer/wizard 4, bloodrager 3;VSMDF;true
+Animal Aspect;alchemist 2, magus 2, druid 2, ranger 2, sorcerer/wizard 2, bloodrager 2;VSMDF;true
+Air Bubble;cleric/oracle 1, druid 1, ranger 1, sorcerer/wizard 1, witch 1;SMDF;true
+Abundant Ammunition;bard 1, cleric/oracle 1, ranger 1, sorcerer/wizard 1;VSMDF;false
+Blot;bard 3, cleric/oracle 3, sorcerer/wizard 3;VSM;true
+Stalwart Resolve;alchemist 2, cleric/oracle 2, inquisitor 1, paladin 1, witch 2;VSDF;true
+Sharesister;cleric/oracle 3, witch 3;VSM;true
+Bite the Hand;druid 3, inquisitor 3, sorcerer/wizard 4, summoner 3, witch 4;VSDF;true
+Spell Gauge;bard 2, cleric 2/oracle 2, inquisitor 2, sorcerer/wizard 2;VSF;true
+Primal Scream;bard 4;V;false
+Prediction of Failure;sorcerer/wizard 8, witch 8;VS;true
+Play Instrument;bard 1;VS;false
+Orb Of The Void;cleric/oracle 8, sorcerer/wizard 8;VSM;true
+Monstrous Physique IV;alchemist 6, magus 6, sorcerer/wizard 6;VSM;false
+Burrow;alchemist 3, druid 3, ranger 3, sorcerer/wizard 3, bloodrager 3;VS;true
+Blood Mist;druid 8, shaman 8;VSM;true
+Battlemind Link;inquisitor 4, sorcerer/wizard 6;VS;true
+Aura of Doom;cleric/oracle 4;VSMDF;true
+Archon's Aura;cleric/oracle 3, paladin 3;VS;true
+Arboreal Hammer;druid 4;VSDF;false
+Smite Abomination;cleric 5/oracle 5;VSFPDF;false
+Vermin Shape II;druid 4, sorcerer/wizard 5, witch 4;VSM;false
+Fractions of Heal and Harm;bard 3, cleric 3/oracle 3, sorcerer/wizard 3;VS;false
+Perceive Cues;alchemist 2, inquisitor 2, ranger 2, witch 2;VSM;false
+Putrefy Food and Drink;witch 0;VS;true
+Purified Calling;summoner 4;VSM;false
+Purging Finale;bard 3;VS;true
+Pain Strike, Mass;sorcerer/wizard 5, witch 5;VS;true
+Nap Stack;cleric/oracle 3;VSM;true
+Marks Of Forbiddance;paladin 3;VS;true
+Life Bubble;cleric/oracle 5, druid 4, ranger 3, sorcerer/wizard 5;VSMDF;true
+Knight's Calling;paladin 1;VDF;true
+Hydraulic Torrent;druid 3, sorcerer/wizard 3, magus 3, bloodrager 3;VS;true
+Heroic Finale;bard 4;VS;true
+Guiding Star;cleric/oracle 3, ranger 2, witch 3, shaman 2;VSM;false
+Grove of Respite;druid 4, ranger 4, shaman 5;VSMDF;false
+Glide;druid 2, ranger 1, sorcerer/wizard 2, summoner 2, witch 2, shaman 2;VSMDF;false
+Ghostbane Dirge, Mass;bard 4, cleric/oracle 5, inquisitor 5, paladin 3, shaman 5;VSMDF;true
+Ghostbane Dirge;bard 2, cleric/oracle 2, inquisitor 2, paladin 1, shaman 2;VSMDF;true
+Foe to Friend;bard 5;VS;true
+Fly, Mass;sorcerer/wizard 7;VSF;true
+Flames Of The Faithful;inquisitor 2;V;true
+Firebrand;sorcerer/wizard 7;VS;true
+Fire of Vengeance;paladin 4;VS;false
+Snake Staff;cleric/oracle 5, druid 5, shaman 6;VSM;true
+Sirocco;druid 6, sorcerer/wizard 6, magus 6;VSMDF;true
+Shared Wrath;inquisitor 4;VSM;true
+Shifting Sand;druid 3, sorcerer/wizard 3;VSM;false
+Shadow Projection;sorcerer/wizard 4;S;false
+Seek Thoughts;alchemist 3, bard 3, inquisitor 3, sorcerer/wizard 3, summoner 3, witch 3;VSM;false
+Saving Finale;bard 1;VS;true
+Saddle Surge;paladin 2;VSDF;false
+Sacred Bond;cleric/oracle 3, inquisitor 2, paladin 2;VSF;true
+Righteous Vigor;inquisitor 3, paladin 2;VSDF;true
+Memory Lapse;bard 1, sorcerer/wizard 1;VS;true
+Lockjaw;druid 2, ranger 2;VSM;true
+King's Castle;paladin 4;VSDF;true
+Invigorate, Mass;bard 3;V;true
+Instant Enemy;ranger 3;VS;false
+Fester, Mass;inquisitor 6, witch 6;VSM;true
+Feather Step;bard 1, druid 1, ranger 1;VS;true
+Evolution Surge, Lesser;summoner 2;VSM;false
+Euphoric Tranquility;bard 6, cleric/oracle 8, druid 8, sorcerer/wizard 8;VSMDF;true
+Elude Time;alchemist 5;VSM;false
+Elemental Aura;alchemist 3, sorcerer/wizard 3, magus 3, bloodrager 3;VS;true
+Draconic Reservoir;alchemist 3, sorcerer/wizard 3, bloodrager 3;VSM;true
+Defile Armor;inquisitor 4, antipaladin 3;VS;true
+Deadly Finale;bard 6;VS;true
+Dancing Lantern;bard 1, cleric/oracle 1, ranger 1, sorcerer/wizard 1, witch 1, shaman 1;VSF;false
+Cup Of Dust;druid 3, witch 3;VSM;true
+Create Pit;sorcerer/wizard 2, summoner 2;VSF;false
+Contagious Flame;sorcerer/wizard 6, magus 6;VS;true
+Cloak of Shade;druid 1, ranger 1;VSM;true
+Cloak of Dreams;bard 5, sorcerer/wizard 6, witch 6, shaman 7;VSM;true
+Allfood;ranger 2;VSM;true
+Vigor;adept 0, cleric/oracle 0;VS;true
+Shield the Banner;adept 1, cleric/oracle 1;VSDF;false
+Tripvine;bard 1, druid 1, sorcerer/wizard 1;VS;false
+Summon Elemental Steed;druid 9;VSDF;false
+Arcane Concordance;bard 3;VSM;false
+Alchemical Allocation;alchemist 2;S;false
+Acid Pit;sorcerer/wizard 4, summoner 4;VSMFF;false
+Blood Rage;adept 3, bard 2, cleric/oracle 3, sorcerer/wizard 3;VSM;true
+Swallow Your Fear;bard 1, cleric/oracle 1;VS;true
+Speak with Plants;bard 4, druid 3, ranger 2;VS;false
+Sleet Storm;druid 3, sorcerer/wizard 3, witch 3, magus 3, bloodrager 3, shaman 3;VSMDF;false
+Shout, Greater;bard 6, sorcerer/wizard 8;VSF;true
+Shout;bard 4, sorcerer/wizard 4, magus 4, bloodrager 4;V;true
+Shield Other;cleric/oracle 2, paladin 2, inquisitor 2;VSF;true
+Rusting Grasp;druid 4;VSDF;false
+Rope Trick;sorcerer/wizard 2;VSM;false
+Restoration;cleric/oracle 4, paladin 4, shaman 4;VSM;true
+Resist Energy;alchemist 2, cleric/oracle 2, druid 2, inquisitor 2, paladin 2, ranger 1, sorcerer/wizard 2, summoner 2, bloodrager 2, s;VSDF;true
+Resistance;bard 0, cleric/oracle 0, druid 0, paladin 1, sorcerer/wizard 0, summoner 0, witch 0, inquisitor 0, shaman 0;VSMDF;true
+Repel Metal or Stone;druid 8;VS;false
+Remove Paralysis;cleric/oracle 2, paladin 2, inquisitor 2, shaman 2;VS;true
+Reincarnate;druid 4, witch 5, shaman 4;VSMDF;true
+Reduce Animal;druid 2, ranger 3;VS;false
+Read Magic;bard 0, cleric/oracle 0, druid 0, paladin 1, ranger 1, sorcerer/wizard 0, summoner 0, witch 0, inquisitor 0, magus 0, sh;VSF;false
+Rage;bard 2, sorcerer/wizard 3, alchemist 3, summoner 3, witch 3, alchemist 3, summoner 3, witch 3, bloodrager 3;VS;true
+Purify Food and Drink;cleric/oracle 0, druid 0, shaman 0;VS;true
+Protection from Spells;sorcerer/wizard 8, summoner 6;VSMFOEI;true
+Prayer;cleric/oracle 3, paladin 3, inquisitor 3;VSDF;true
+Polymorph Any Object;sorcerer/wizard 8;VSMDF;true
+Polymorph, Greater;sorcerer/wizard 7;VSM;true
+Polymorph;sorcerer/wizard 5, alchemist 5;VSM;true
+Plant Shape III;sorcerer/wizard 7;VSM;false
+Plane Shift;cleric/oracle 5, sorcerer/wizard 7, summoner 5, witch 7, shaman 7;VSF;true
+Planar Binding;sorcerer/wizard 6, summoner 5;VS;true
+Shield;sorcerer/wizard 1, alchemist 1, summoner 1, magus 1, bloodrager 1;VS;false
+Shatter;bard 2, cleric/oracle 2, sorcerer/wizard 2, magus 2, bloodrager 2;VSMDF;true
+Secure Shelter;bard 4, sorcerer/wizard 4, witch 4;VSM;false
+Secret Page;bard 3, sorcerer/wizard 3;VSM;false
+Scrying;bard 3, cleric/oracle 5, druid 4, sorcerer/wizard 4, witch 4, shaman 4;VSMDFF;true
+Scare;bard 2, sorcerer/wizard 2, witch 2, antipaladin 2, shaman 2;VSM;true
+Righteous Might;cleric/oracle 5, inquisitor 5;VSDF;false
+Resurrection;cleric/oracle 7, witch 8, shaman 8;VSMDF;true
+Restoration, Greater;cleric/oracle 7, shaman 7;VSM;true
+Resilient Sphere;sorcerer/wizard 4;VSF;true
+Repulsion;cleric/oracle 7, sorcerer/wizard 6, summoner 5, inquisitor 6;VSFDF;true
+Repel Wood;druid 6;VS;false
+Reduce Person, Mass;sorcerer/wizard 4, summoner 3, bloodrager 4;VSM;true
+Protection From Arrows;sorcerer/wizard 2, alchemist 2, summoner 2, bloodrager 2;VSF;true
+Programmed Image;bard 6, sorcerer/wizard 6;VSM;false
+Prismatic Wall;sorcerer/wizard 8;VS;false
+Prestidigitation;bard 0, sorcerer/wizard 0;VS;false
+Power Word Kill;sorcerer/wizard 9, witch 9;V;true
+Power Word Blind;sorcerer/wizard 7, witch 7;V;true
+Polar Ray;sorcerer/wizard 8;VSF;true
+Poison;cleric/oracle 4, druid 3, witch 4, antipaladin 4, shaman 4;VSDF;true
+Plant Shape I;sorcerer/wizard 5, alchemist 5;VSM;false
+Planar Binding, Lesser;sorcerer/wizard 5, summoner 4;VS;true
+Planar Ally, Greater;cleric/oracle 8, shaman 8;VSMDF;false
+Phase Door;sorcerer/wizard 7, witch 7;V;false
+Mage's Lucubration;wizard 6;VS;false
+Mage's Disjunction;sorcerer/wizard 9;V;false
+Mage Hand;bard 0, sorcerer/wizard 0, summoner 0, magus 0;VS;false
+Longstrider;druid 1, ranger 1;VSM;false
+Light;bard 0, cleric/oracle 0, druid 0, inquisitor 0, magus 0, sorcerer/wizard 0, summoner 0, witch 0, shaman 0;VMDF;false
+Locate Creature;bard 4, sorcerer/wizard 4, summoner 3, witch 4;VSM;false
+Liveoak;druid 6, shaman 7;VS;false
+Legend Lore;bard 4, sorcerer/wizard 6, witch 6, inquisitor 6;VSMF;false
+Keen Edge;sorcerer/wizard 3, inquisitor 3, magus 3, bloodrager 3;VS;true
+Ironwood;druid 6;VSF;false
+Ethereal Jaunt;cleric/oracle 7, sorcerer/wizard 7;VS;false
+Enthrall;bard 2, cleric/oracle 2, witch 2, inquisitor 2, shaman 2;VS;true
+Elemental Body I;sorcerer/wizard 4, alchemist 4, magus 4, bloodrager 4;VSM;false
+Earthquake;cleric/oracle 8, druid 8, shaman 8;VSDF;false
+Dominate Monster;sorcerer/wizard 9, summoner 6, witch 9;VS;true
+Dispel Magic;bard 3, cleric/oracle 3, druid 4, paladin 3, sorcerer/wizard 3, summoner 3, witch 3, inquisitor 3, antipaladin 3, magus;VS;false
+Dispel Good;cleric/oracle 5, inquisitor 5, antipaladin 4, shaman 5;VSDF;false
+Dispel Chaos;cleric/oracle 5, paladin 4, inquisitor 5, shaman 5;VSDF;false
+Disintegrate;sorcerer/wizard 6, magus 6;VSMDF;true
+Dimensional Anchor;cleric/oracle 4, sorcerer/wizard 4, summoner 3, inquisitor 3;VS;true
+Iron Body;sorcerer/wizard 8;VSMDF;false
+Interposing Hand;sorcerer/wizard 5, magus 5;VSF;true
+Inflict Light Wounds;antipaladin 1, cleric/oracle 1, inquisitor 1, witch 1, shaman 1;VS;true
+Implosion;cleric/oracle 9;VS;true
+Imbue with Spell Ability;cleric/oracle 4, shaman 4;VSDF;true
+Commune with Nature;druid 5, ranger 4, shaman 5;VS;false
+Commune;cleric/oracle 5, inquisitor 5, shaman 5;VSMDF;false
+Clone;sorcerer/wizard 8, witch 8;VSMF;false
+Cloak of Chaos;cleric/oracle 8;VSF;true
+Chill Touch;sorcerer/wizard 1, witch 1, magus 1, bloodrager 1, shaman 1;VS;true
+Fox's Cunning;bard 2, sorcerer/wizard 2, alchemist 2, summoner 2;VSMDF;true
+Form of the Dragon II;sorcerer/wizard 7;VSM;false
+Forcecage;sorcerer/wizard 7;VSM;false
+Fly;sorcerer/wizard 3, alchemist 3, summoner 3, witch 3, magus 3, bloodrager 3, shaman 3;VSF;true
+Flame Arrow;sorcerer/wizard 3, magus 3, bloodrager 3;VSM;false
+Detect Thoughts;bard 2, sorcerer/wizard 2, alchemist 2, summoner 2, witch 2, inquisitor 2;VSFDF;false
+Detect Snares and Pits;druid 1, ranger 1;VS;false
+Detect Animals or Plants;druid 1, ranger 1, shaman 1;VS;false
+Death Ward;cleric/oracle 4, druid 5, paladin 4, witch 4, inquisitor 4, alchemist 4;VSDF;true
+Daze Monster;bard 2, sorcerer/wizard 2, summoner 1, witch 2, bloodrager 2;VSM;true
+Creeping Doom;druid 7, summoner 5, shaman 7;VS;false
+Control Weather;cleric/oracle 7, druid 7, sorcerer/wizard 7, witch 7, shaman 7;VS;false
+Control Water;cleric/oracle 4, druid 4, sorcerer/wizard 6, shaman 4;VSMDF;false
+Contagion;cleric/oracle 3, druid 3, sorcerer/wizard 4, antipaladin 3, bloodrager 4;VS;true
+Cone of Cold;sorcerer/wizard 5, witch 6, magus 5, shaman 6;VSM;true
+Binding;sorcerer/wizard 8, summoner 6;VSMHD;true
+Beast Shape IV;sorcerer/wizard 6, alchemist 6, magus 6;VSM;false
+Antiplant Shell;druid 4;VSDF;true
+Animate Rope;bard 1, sorcerer/wizard 1;VS;false
+Animal Shapes;druid 8, shaman 8;VSDF;true
+Analyze Dweomer;bard 6, sorcerer/wizard 6, witch 6, alchemist 6;VSF;false
+Align Weapon;cleric/oracle 2, inquisitor 2;VSDF;true
+Acid Splash;sorcerer/wizard 0, summoner 0, inquisitor 0, magus 0;VS;false
+Blur;bard 2, sorcerer/wizard 2, summoner 2, alchemist 2, magus 2;V;true
+Bless Weapon;paladin 1;VS;false
+Blade Barrier;cleric/oracle 6, inquisitor 6;VS;true
+Bear's Endurance;cleric/oracle 2, druid 2, ranger 2, sorcerer/wizard 2, summoner 2, alchemist 2, magus 2, bloodrager 2, shaman 2;VSMDF;true
+Awaken;druid 5, shaman 6;VSMDF;true
+Acid Fog;sorcerer/wizard 6, magus 6;VSM;false

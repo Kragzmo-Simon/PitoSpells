@@ -1,0 +1,40 @@
+Transmute Wine To Blood;cleric/oracle 2, sorcerer/wizard 2, witch 2;VSM;true
+Serren's Swift Girding;magus 1, paladin 1, sorcerer/wizard 1;VSM;true
+Clarion Call;bard 1, cleric/oracle 1, magus 1, sorcerer/wizard 1;VSM;true
+Ironbloom Sprouts;cleric/oracle 1, druid 1;VSDFM;true
+Shadow Anchor;bard 2, sorcerer/wizard 2, witch 2;S;true
+Earth Glide;alchemist 4, druid 4, sorcerer/wizard 4, bloodrager 4, shaman 4;VS;true
+Aboleth's Lung;cleric/oracle 2, druid 2, sorcerer/wizard 2, witch 2;VSMDF;true
+Sow Thought;bard 1, sorcerer/wizard 1, witch 1;VS;true
+Nixie's Lure;bard 4, druid 3, sorcerer/wizard 3, summoner 4, witch 3;VS;true
+Winter Feathers;cleric/oracle 1, druid 1, inquisitor 1, ranger 1, sorcerer/wizard 1, bloodrager 1;VS;true
+Gusting Sphere;druid 2, magus 2, sorcerer/wizard 2, bloodrager 2;VS;true
+Blood Scent;alchemist 3, antipaladin 2, cleric/oracle 3, druid 3, inquisitor 3, ranger 2, sorcerer/wizard 3, witch 3, bloodrager 3;VS;true
+Gloomblind Bolts;magus 3, sorcerer/wizard 3, witch 3, bloodrager 3;VS;true
+Web Cloud;sorcerer/wizard 4, witch 4;VS;false
+Nine Lives;cleric/oracle 8, witch 8;;true
+Sacred Space;cleric/oracle 2, paladin 2;VSM;false
+Black Mark;druid 7, witch 7;VSM;true
+Village Veil;bard 5, cleric/oracle 5, sorcerer/wizard 5, witch 5;VS;true
+Escaping Ward;bard 2, inquisitor 2, magus 2, ranger 2, sorcerer/wizard 2;VS;false
+Blessing Of Luck And Resolve;cleric/oracle 2, inquisitor 2, paladin 2;VS;false
+Urban Grace;alchemist 1, bard 1, ranger 1, sorcerer/wizard 1, witch 1;VS;false
+Paragon Surge;alchemist 3, cleric/oracle 3, magus 4, paladin 4, sorcerer/wizard 3, witch 3, bloodrager 3;VS;false
+Forgetful Slumber;bard 4, sorcerer/wizard 4, witch 4;VSM;true
+Recharge Innate Magic;alchemist 1, bard 1, cleric/oracle 1, druid 1, inquisitor 1, magus 1, sorcerer/wizard 1, witch 1;VS;false
+Minor Dream;alchemist 2, bard 3, sorcerer/wizard 3, witch 2;VS;true
+Death From Below;bard 3, sorcerer/wizard 2, bloodrager 2;VS;true
+Groundswell;cleric/oracle 2, druid 2, magus 2, ranger 2;VS;true
+Submerge Ship;cleric/oracle 7, sorcerer/wizard 7;VSMDF;false
+Cloud Of Seasickness;cleric/oracle 2, druid 2, sorcerer/wizard 2;VSM;false
+Track Ship;bard 2, cleric/oracle 2, sorcerer/wizard 2;VSF;true
+Litany Of Madness;antipaladin 4, inquisitor 6;VSDF;true
+Litany of Defense;antipaladin 2, inquisitor 2, paladin 2;VSDF;true
+Jury-Rig;bard 1, magus 1, sorcerer/wizard 1, summoner 1, witch 1;VSM;true
+Heroic Invocation;sorcerer/wizard 9, witch 9;VS;true
+Frightful Aspect;cleric/oracle 8, druid 8, sorcerer/wizard 8, witch 8;VSM;false
+Litany of Entanglement;antipaladin 2, inquisitor 3, paladin 2;VSDF;true
+Life Conduit;summoner 1;VS;false
+Kinetic Reverberation;alchemist 2, sorcerer/wizard 2;VSM;true
+Judgment Light;inquisitor 4;VS;false
+Hostile Juxtaposition;sorcerer/wizard 5, summoner 4, witch 5;VSM;true

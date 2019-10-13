@@ -1,0 +1,65 @@
+Discern Value;bard 3, sorcerer/wizard 3;VSF;false
+Create Holds;druid 4, ranger 3, sorcerer/wizard 4;VSM;false
+Sea Steed;druid 2, paladin 2, ranger 2;VSDF;false
+Bleed For Your Master;antipaladin 2, druid 3, ranger 3, sorcerer/wizard 3, witch 3;VS;false
+Steal Years;cleric/oracle 3, druid 3, sorcerer/wizard 3, witch 3;VSM;true
+Project Weakness;cleric/oracle 3, sorcerer/wizard 4, witch 3;VS;true
+Curse Item;cleric/oracle 2;VSDF;true
+Swipe;bard 2, sorcerer/wizard 3;VS;false
+Squeeze;alchemist 2, sorcerer/wizard 2, witch 2;VS;true
+Imbue With Elemental Might;cleric/oracle 2, magus 2, sorcerer/wizard 2, bloodrager 2, shaman 2;VS;true
+Undine's Curse;sorcerer/wizard 1, witch 1;VS;true
+Hellmouth Lash;sorcerer/wizard 4, witch 4, bloodrager 4;VS;false
+Damnation Stride;sorcerer/wizard 5, summoner 4, witch 5;V;false
+Windy Escape;bard 1, druid 1, magus 1, sorcerer/wizard 1, bloodrager 1;VS;false
+Miasmatic Form;alchemist 4, sorcerer/wizard 4;SM;false
+Absorbing Inhalation;alchemist 4, druid 4, sorcerer/wizard 4, bloodrager 4;VS;false
+Mighty Fist Of The Earth;cleric/oracle 1, druid 1;VSDF;true
+Binding Earth, Mass;druid 6, witch 6;VSDF;true
+Touch Of Combustion;druid 1, inquisitor 1, magus 1, sorcerer/wizard 1, witch 1, bloodrager 1;VS;true
+Chains Of Fire;magus 6, sorcerer/wizard 6;VSF;true
+Ancestral Regression;alchemist 2, antipaladin 3, cleric/oracle 2, sorcerer/wizard 3, witch 2;VS;true
+Spawn Ward;cleric/oracle 5, inquisitor 5;VS;true
+Steal Breath;bard 2, druid 2, sorcerer/wizard 2, witch 2, bloodrager 2;VS;true
+Veil Of Heaven;paladin 1;VSDF;false
+Truespeak;bard 4, cleric/oracle 6, sorcerer/wizard 5, witch 5;V;false
+Old Salt's Curse;druid 5, witch 5;VSM;true
+Fearsome Duplicate;bard 3, inquisitor 3, sorcerer/wizard 3, witch 3;VS;true
+Blessing Of Luck And Resolve, Mass;cleric/oracle 6, inquisitor 6, paladin 4;VS;false
+Linebreaker;alchemist 1, antipaladin 1, inquisitor 1, magus 1, paladin 1, ranger 1;VS;false
+Ghost Wolf;sorcerer/wizard 4, summoner 2, bloodrager 4;VSF;false
+Battle Trance;alchemist 3, antipaladin 3, cleric/oracle 4, inquisitor 3, ranger 3, witch 4;VS;true
+Resilient Reservoir;magus 3, paladin 3, sorcerer/wizard 4, witch 4;VS;true
+Embrace Destiny;oracle 1, sorcerer/wizard 2, witch 2;VS;false
+Severed Fate;cleric/oracle 3, witch 2;VS;true
+Advanced Scurvy;cleric/oracle 1, druid 1;VS;true
+Planetary Adaptation;alchemist 5, cleric 4/oracle 4, sorcerer/wizard 5, summoner 5;V;false
+Unseen Crew;bard 4, sorcerer/wizard 5, summoner 5, witch 5;VSM;false
+Buoyancy;bard 2, sorcerer/wizard 2, shaman 2;V;true
+Call the Void;sorcerer/wizard 3, witch 3;VS;true
+Replenish Ki;cleric 4/oracle 4;VSDF;false
+Summon Meladaemon;cleric/oracle 8, sorcerer/wizard 8, summoner 6, witch 8;VSF;false
+Summon Erodaemon;cleric/oracle 8, sorcerer/wizard 8, summoner 6, witch 8;VSF;false
+Summon Derghodaemon;cleric/oracle 9, sorcerer/wizard 9, witch 9;VSF;false
+Summon Ceustodaemon;cleric/oracle 5, sorcerer/wizard 5, summoner 4, witch 5;VSF;false
+Soul Transfer;cleric/oracle 7, sorcerer/wizard 7, witch 7;VSMHD;true
+Scourge of the Horsemen;cleric/oracle 9, sorcerer/wizard 9;VS;true
+Parasitic Soul;cleric/oracle 9, sorcerer/wizard 9, witch 9;VSF;true
+Charon's Dispensation;cleric/oracle 4, inquisitor 4, sorcerer/wizard 4, witch 4;VSM;true
+Water Walk, Communal;cleric/oracle 4, ranger 4;VSDF;true
+Walk Through Space;alchemist 6, magus 6, sorcerer/wizard 7, summoner 6, witch 7;VSM;false
+Siege Of Trees;druid 7;VSDF;false
+Shadow Bomb Admixture;alchemist 2;VS;false
+Ricochet Shot;ranger 2, sorcerer/wizard 2;VSM;true
+Returning Weapon;bard 2, cleric/oracle 2, inquisitor 1, magus 1, ranger 1, sorcerer/wizard 2, witch 2, bloodrager 1;VS;true
+Resist Energy, Communal;alchemist 3, cleric/oracle 3, druid 3, inquisitor 3, paladin 3, ranger 3, sorcerer/wizard 3, summoner 3;VSDF;true
+Reinforce Armaments;cleric/oracle 1, magus 1, sorcerer/wizard 1, witch 1;VSMDF;true
+Phantom Chariot;sorcerer/wizard 4, summoner 3;VS;false
+Nondetection, Communal;antipaladin 4, sorcerer/wizard 4;VSM;true
+Named Bullet;inquisitor 4, ranger 3, sorcerer/wizard 4, witch 4;VSMDF;true
+Mind Blank, Communal;sorcerer/wizard 9, witch 9;VS;true
+Magic Siege Engine, Greater;antipaladin 4, cleric/oracle 5, inquisitor 4, paladin 4, sorcerer/wizard 4;VSMDF;true
+Longshot;alchemist 1, antipaladin 1, inquisitor 1, magus 1, paladin 1, ranger 1, sorcerer/wizard 1;VSMDF;false
+Litany of Weakness;antipaladin 1, inquisitor 1;VSDF;true
+Litany of Warding;antipaladin 2, inquisitor 3, paladin 2;VSDF;false
+Litany of Righteousness;inquisitor 3, paladin 2;VSDF;true

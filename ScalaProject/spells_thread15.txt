@@ -1,0 +1,180 @@
+Twisted Space;magus 2, sorcerer/wizard 2, summoner 2;VSM;true
+Telekinetic Assembly;magus 2, sorcerer/wizard 2;VSF;false
+Tactical Acumen;bard 2, inquisitor 2, magus 2, paladin 1, sorcerer/wizard 2;VSMDF;true
+Summoner Conduit;cleric/oracle 4, sorcerer/wizard 5, summoner 4, witch 5;VSM;true
+Stoneskin, Communal;alchemist 5, druid 6, inquisitor 5, sorcerer/wizard 5, summoner 4;VSM;true
+Healing Thief;sorcerer/wizard 3, witch 3;VSM;true
+Energy Siege Shot;sorcerer/wizard 5, summoner 5;VSM;true
+Endure Elements, Communal;alchemist 3, cleric/oracle 2, druid 2, paladin 2, ranger 2, sorcerer/wizard 2;VS;true
+Destabilize Powder;sorcerer/wizard 2, witch 2;VSM;true
+Deadly Juggernaut;antipaladin 3, cleric/oracle 3, inquisitor 3, paladin 3;VS;false
+Darkvision, Communal;alchemist 3, antipaladin 3, ranger 4, sorcerer/wizard 3;VSM;true
+Caging Bomb Admixture;alchemist 6;VS;false
+Burst of Speed;alchemist 3, antipaladin 3, magus 3, inquisitor 3, paladin 3, ranger 3, bloodrager 3;V;false
+Bowstaff;inquisitor 1, paladin 1, ranger 1;V;true
+Blistering Invective;alchemist 2, bard 2, inquisitor 2;VS;false
+Lighten Object;bard 1, cleric 1/oracle 1, sorcerer/wizard 1, summoner 1;VM;true
+Battering Blast;sorcerer/wizard 3;VS;true
+Snow Shape;cleric/oracle 2, druid 1, sorcerer/wizard 2;VSMDF;false
+Summon Accuser;bard 4, cleric/oracle 4, sorcerer/wizard 4, summoner 4, witch 4;VSFDF;false
+Dazzling Blade, Mass;sorcerer/wizard 3;VS;true
+Dazzling Blade;bard 1, sorcerer/wizard 1;VS;true
+Drench;sorcerer/wizard 0;VS;true
+Witness;bard 3, inquisitor 3, witch 3;VS;true
+Wartrain Mount;antipaladin 1, bard 2, druid 2, inquisitor 1, paladin 1, ranger 1;VSM;true
+Vitriolic Mist;alchemist 4, sorcerer/wizard 4, summoner 4, bloodrager 4;VSM;false
+Unholy Ice;cleric/oracle 5;VSM;true
+Undead Anatomy IV;sorcerer/wizard 8;VSM;false
+Touch of Slime;alchemist 4, druid 4, sorcerer/wizard 4, witch 4, bloodrager 4;VSM;true
+Terrible Remorse;bard 3, cleric/oracle 4, inquisitor 3, sorcerer/wizard 4;VS;true
+Temporary Resurrection;sorcerer/wizard 7, witch 7;VSM;false
+Read Weather;bard 1, cleric 1/oracle 1, druid 1, ranger 1;VSF;false
+Seducer's Eyes;bard 2, sorcerer/wizard 2;VSDF;false
+Undeath Ward;cleric/oracle 5, inquisitor 4, sorcerer/wizard 6, witch 6;VSMDF;true
+Ablative Sphere;sorcerer/wizard 3;VSM;false
+Penumbra;sorcerer/wizard 0;VSM;true
+Sheet Lightning;druid 3, sorcerer/wizard 3;VS;true
+Greensight;druid 2, ranger 2, sorcerer/wizard 2;VSM;false
+Waves of Ecstasy;bard 6, cleric/oracle 7, sorcerer/wizard 7, witch 7;VS;true
+Volcanic Storm;druid 4, sorcerer/wizard 4, witch 4, bloodrager 4;VSMDF;true
+Vocal Alteration;alchemist 1, bard 1, inquisitor 1, sorcerer/wizard 1, witch 1;VS;true
+Virtuoso Performance;bard 4;V;false
+Vestment of the Champion;antipaladin 2, paladin 2;VS;false
+Unholy Sword;antipaladin 4;VS;false
+Undead Anatomy II;alchemist 5, magus 5, sorcerer/wizard 5;VSM;false
+Unbreakable Construct;sorcerer/wizard 5;VSM;false
+Ki Arrow;bard 1, sorcerer/wizard 1, witch 1;S;true
+Interrogation, Greater;inquisitor 4;VS;true
+Interrogation;inquisitor 1, sorcerer/wizard 1, witch 1;VS;true
+Imbue with Aura;cleric/oracle 2;VSDF;true
+Icy Prison, Mass;sorcerer/wizard 9;VS;true
+Shadowbard;bard 5;VSM;false
+Ride The Waves;cleric/oracle 4, druid 4, sorcerer/wizard 4, witch 4, bloodrager 4, shaman 4;VS;true
+Restore Corpse;cleric/oracle 1, druid 1, sorcerer/wizard 1, witch 1;VS;false
+Resonating Word;bard 5, sorcerer/wizard 7;V;true
+Possess Object;sorcerer/wizard 5, witch 5;VSF;false
+Wrath;inquisitor 1;VSM;false
+Unwitting Ally;bard 0;VS;true
+Tsunami;druid 9, sorcerer/wizard 9, shaman 9;VS;false
+True Form;druid 4, sorcerer/wizard 4;VS;true
+Treasure Stitching;bard 4, cleric/oracle 5, sorcerer/wizard 5;VSM;true
+Timely Inspiration;bard 1;V;true
+Thorn Body;alchemist 3, druid 4, shaman 4;VSDF;false
+Stone Fist;alchemist 1, druid 1, sorcerer/wizard 1, magus 1, bloodrager 1;VSM;false
+Sift;bard 0, inquisitor 0;VS;false
+Share Senses;sorcerer/wizard 4, witch 3;VSM;true
+Residual Tracking;ranger 1;VSM;false
+Hunter's Howl;ranger 1;VS;false
+Ice Armor;cleric 1/oracle 1, druid 1;VSF;false
+Wrathful Mantle;cleric/oracle 3, paladin 3;VSDF;true
+Winds of Vengeance;cleric/oracle 9, druid 9, sorcerer/wizard 9, shaman 9;VSDF;false
+World Wave;druid 9, sorcerer/wizard 9;VSDF;true
+Wandering Star Motes;bard 4, sorcerer/wizard 4, witch 4, shaman 4;VSM;true
+Wall of Lava;druid 8, sorcerer/wizard 8;VSMDF;false
+Vortex;druid 7, sorcerer/wizard 7, shaman 7;VSMDF;true
+Vomit Swarm;alchemist 2, witch 2;S;false
+Create Treasure Map;bard 2, druid 3, ranger 2, sorcerer/wizard 2;VSM;false
+Coordinated Effort;bard 3, inquisitor 3;VS;false
+Clashing Rocks;druid 9, sorcerer/wizard 9;VS;false
+Chameleon Stride;ranger 2;VSDF;false
+Castigate, Mass;inquisitor 5;VSDF;true
+Lily Pad Stride;druid 3;VSM;false
+Light Lance;paladin 2;VS;false
+Keen Senses;alchemist 1, druid 1, ranger 1;VMDF;true
+Jester's Jaunt;bard 3;VS;true
+Invigorate;bard 1;V;true
+Hungry Pit;sorcerer/wizard 5, summoner 5;VSF;false
+Grace;cleric/oracle 2, paladin 1;V;false
+Forced Repentance;inquisitor 4, paladin 4;VSDF;true
+Fluid Form;alchemist 4, sorcerer/wizard 6;SM;false
+Fire Snake;druid 5, sorcerer/wizard 5, magus 5;VSM;true
+Telekinetic Sphere;sorcerer/wizard 8;VSM;true
+Sympathetic Vibration;bard 6;VSF;true
+Sunburst;druid 8, sorcerer/wizard 8, shaman 8;VSMDF;true
+Summon Swarm;bard 2, druid 2, sorcerer/wizard 2, summoner 2, witch 2, shaman 2;VSMDF;false
+Summon Monster IX;cleric/oracle 9, sorcerer/wizard 9, witch 9;VSFDF;false
+Summon Monster VII;cleric/oracle 7, sorcerer/wizard 7, summoner 5, witch 7;VSFDF;false
+Summon Monster VIII;cleric/oracle 8, sorcerer/wizard 8, witch 8, summoner 6;VSFDF;false
+Summon Monster III;bard 3, cleric/oracle 3, sorcerer/wizard 3, witch 3, antipaladin 3;VSFDF;false
+Summon Monster II;bard 2, cleric/oracle 2, sorcerer/wizard 2, summoner 2, witch 2, antipaladin 2;VSFDF;false
+Summon Monster I;bard 1, cleric/oracle 1, sorcerer/wizard 1, summoner 1, witch 1, antipaladin 1;VSFDF;false
+Sotto Voce;bard 1, cleric/oracle 0, sorcerer/wizard 0;V;true
+Hibernate;druid 1;VSDF;false
+Chastise;bard 1, sorcerer/wizard 1;V;false
+Tracking Mark;druid 1, cleric 1/oracle 1, paladin 1, ranger 1;SDF;true
+Protection from Energy;cleric/oracle 3, druid 3, ranger 2, sorcerer/wizard 3, alchemist 3, summoner 3, inquisitor 3, bloodrager 3, shaman 3;VSDF;true
+Unholy Aura;cleric/oracle 8;VSF;true
+Undeath to Death;cleric/oracle 6, sorcerer/wizard 6, inquisitor 6;VSMDF;true
+True Strike;sorcerer/wizard 1, alchemist 1, inquisitor 1, magus 1, bloodrager 1;VF;false
+Tree Stride;druid 5, ranger 4;VSDF;false
+Transmute Mud to Rock;druid 5, sorcerer/wizard 5;VSMDF;false
+Undetectable Alignment;bard 1, cleric/oracle 2, paladin 2, alchemist 2, inquisitor 2, antipaladin 2;VS;true
+True Seeing;cleric/oracle 5, druid 7, sorcerer/wizard 6, alchemist 6, summoner 5, witch 6, inquisitor 5, magus 6, shaman 5;VSM;true
+Tree Shape;druid 2, ranger 3, shaman 2;VSDF;false
+Transport via Plants;druid 6, shaman 7;VS;false
+Temporal Stasis;sorcerer/wizard 8;VSM;true
+Stone Shape;cleric/oracle 3, druid 3, sorcerer/wizard 4, shaman 3;VSMDF;false
+Spell Turning;sorcerer/wizard 7, summoner 5;VSMDF;false
+Spell Immunity, Greater;cleric/oracle 8;VSDF;true
+Soul Bind;cleric/oracle 9, sorcerer/wizard 9, witch 9, shaman 9;VSF;false
+Song of Discord;bard 5;VS;true
+Shadow Conjuration;bard 4, sorcerer/wizard 4;VS;true
+Seeming;bard 5, sorcerer/wizard 5;VS;true
+Searing Light;cleric/oracle 3, inquisitor 3;VS;true
+Screen;sorcerer/wizard 8;VS;false
+Scintillating Pattern;sorcerer/wizard 8;VSM;true
+Shield of Law;cleric/oracle 8;VSF;true
+Shapechange;druid 9, sorcerer/wizard 9, shaman 9;VSF;false
+Shambler;druid 9, shaman 9;VS;false
+Shadow Conjuration, Greater;sorcerer/wizard 7;VS;true
+Sequester;sorcerer/wizard 7, summoner 5;VSM;true
+Inflict Light Wounds, Mass;cleric/oracle 5, witch 6, inquisitor 5, shaman 5;VS;true
+Incendiary Cloud;sorcerer/wizard 8, summoner 6;VS;false
+Hypnotism;bard 1, sorcerer/wizard 1, witch 1;VS;true
+Horrid Wilting;sorcerer/wizard 8, witch 8, shaman 8;VSMDF;true
+Hold Portal;sorcerer/wizard 1;V;false
+Reduce Person;sorcerer/wizard 1, alchemist 1, summoner 1, witch 1, magus 1, bloodrager 1;VSM;true
+Ray of Frost;sorcerer/wizard 0, magus 0;VS;true
+Ray Of Enfeeblement;sorcerer/wizard 1, witch 1, magus 1, bloodrager 1;VS;true
+Raise Dead;cleric/oracle 5, witch 6, shaman 6;VSMDF;true
+Protection From Law;cleric/oracle 1, sorcerer/wizard 1, inquisitor 1, summoner 1, antipaladin 1, bloodrager 1, shaman 1;VSMDF;false
+Protection From Good;cleric/oracle 1, sorcerer/wizard 1, inquisitor 1, summoner 1, antipaladin 1, bloodrager 1, shaman 1;VSMDF;false
+Protection From Evil;cleric/oracle 1, inquisitor 1, paladin 1, sorcerer/wizard 1, summoner 1, bloodrager 1, shaman 1;VSMDF;false
+Protection From Chaos;cleric/oracle 1, paladin 1, sorcerer/wizard 1, inquisitor 1, summoner 1, bloodrager 1, shaman 1;VSMDF;false
+Project Image;bard 6, sorcerer/wizard 7;VSM;false
+Produce Flame;druid 1, shaman 1;VS;true
+Holy Word;cleric/oracle 7, inquisitor 6;V;true
+Holy Sword;paladin 4;VS;false
+Holy Smite;cleric/oracle 4, inquisitor 4;VS;true
+Holy Aura;cleric/oracle 8;VSF;true
+Hold Person, Mass;sorcerer/wizard 7, witch 7;VSFDF;true
+Hold Monster, Mass;sorcerer/wizard 9, witch 9;VSMDF;true
+Heal Mount;paladin 3;VS;true
+Heal, Mass;cleric/oracle 9, shaman 9;VS;true
+Heal;cleric/oracle 6, druid 7, alchemist 6, witch 7, inquisitor 6, shaman 7;VS;true
+Haste;alchemist 3, bard 3, magus 3, sorcerer/wizard 3, summoner 2, bloodrager 3;VSM;true
+Death Knell;antipaladin 1, cleric/oracle 2, inquisitor 2, witch 2;VS;true
+Darkvision;ranger 3, sorcerer/wizard 2, alchemist 2, antipaladin 2;VSM;true
+Darkness;bard 2, cleric/oracle 2, sorcerer/wizard 2, inquisitor 2, antipaladin 2, magus 2, shaman 2;VMDF;false
+Cure Critical Wounds, Mass;cleric/oracle 8, druid 9, witch 9, shaman 8;VS;true
+Crushing Hand;sorcerer/wizard 9;VSF;true
+Enervation;sorcerer/wizard 4, witch 4, bloodrager 4;VS;true
+Energy Drain;cleric/oracle 9, sorcerer/wizard 9, shaman 9;VS;true
+Endure Elements;cleric/oracle 1, druid 1, paladin 1, ranger 1, sorcerer/wizard 1, alchemist 1, summoner 1, bloodrager 1, shaman 1;VS;true
+Elemental Body III;sorcerer/wizard 6, alchemist 6, magus 6;VSM;false
+Eagle's Splendor;bard 2, cleric/oracle 2, paladin 2, sorcerer/wizard 2, alchemist 2, summoner 2, antipaladin 2, bloodrager 2, shaman 2;VSMDF;true
+Dismissal;cleric/oracle 4, sorcerer/wizard 5, summoner 4, inquisitor 4, shaman 4;VSDF;true
+Disguise Self;bard 1, sorcerer/wizard 1, alchemist 1, inquisitor 1, antipaladin 1;VS;false
+Discern Location;cleric/oracle 8, sorcerer/wizard 8, summoner 6, witch 8, shaman 8;VSDF;false
+Diminish Plants;druid 3, ranger 3;VSDF;false
+Dimension Door;bard 4, sorcerer/wizard 4, summoner 3, witch 4, magus 4;V;true
+Dream;bard 5, sorcerer/wizard 5, alchemist 5;VS;true
+Dominate Person;bard 4, sorcerer/wizard 5, witch 5, shaman 5;VS;true
+Displacement;bard 3, sorcerer/wizard 3, alchemist 3, summoner 3, magus 3;VM;true
+Dispel Magic, Greater;bard 5, cleric/oracle 6, druid 6, sorcerer/wizard 6, witch 6, inquisitor 6, summoner 5, magus 6, shaman 6;VS;false
+Detect Law;cleric/oracle 1, inquisitor 1, shaman 1;VSDF;false
+Command Undead;sorcerer/wizard 2;VSM;true
+Command Plants;druid 4, ranger 3, shaman 4;V;true
+Command, Greater;cleric/oracle 5, inquisitor 5;V;true
+Color Spray;sorcerer/wizard 1, magus 1, bloodrager 1;VSM;true
+Circle Of Death;sorcerer/wizard 6, inquisitor 6;VSM;true
